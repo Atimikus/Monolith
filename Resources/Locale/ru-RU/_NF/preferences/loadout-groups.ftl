@@ -1,7 +1,7 @@
 # Contractor
 
 loadout-group-contractor-gloves = Перчатки
-loadout-group-contractor-head = Голова
+loadout-group-contractor-head = Головной убор
 loadout-group-contractor-ears = Уши
 loadout-group-contractor-jumpsuit = Комбинезон
 loadout-group-contractor-outerclothing = Верхняя одежда
