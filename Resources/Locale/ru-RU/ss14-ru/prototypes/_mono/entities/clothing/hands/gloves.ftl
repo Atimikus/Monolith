@@ -1,7 +1,7 @@
 ent-ClothingHandsGlovesMopp = перчатки ОЗК
     .desc = Высококачественные резиновые перчатки с изоляцией для повышенной РХБЗ-защиты.
 ent-ClothingHandsGlovesTacticalCombatTan = бежевые тактические боевые перчатки
-    .desc = { ent-ClothingHandsGlovesCombat.desc }  
+    .desc = { ent-ClothingHandsGlovesCombat.desc }
 ent-ClothingHandsGlovesTacticalCombatBlack = чёрные тактические боевые перчатки
     .desc = { ent-ClothingHandsGlovesCombat.desc }
 ent-ClothingHandsGlovesTacticalCombatRangerGreen = серо-зеленые тактические боевые перчатки
